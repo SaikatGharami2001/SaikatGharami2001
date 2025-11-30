@@ -19,8 +19,11 @@ Authentication, profiles, requests, connections, feed
 **TalentBridge – Job Portal Platform**  
 Login + job listings + dashboard + filters  
 - Frontend: https://github.com/SaikatGharami2001/talentbridge-frontend  
-- Backend:  https://github.com/SaikatGharami2001/talentbridge-backend  
-
+- Backend:  https://github.com/SaikatGharami2001/talentbridge-backend
+  
+**NetflixGPT – Netflix UI Clone**  
+- Frontend: https://github.com/SaikatGharami2001/netflix-gpt-frontend
+  
 **ViewTube – YouTube UI Clone**  
 - Frontend: https://github.com/SaikatGharami2001/viewtube-frontend  
 
