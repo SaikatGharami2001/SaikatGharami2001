@@ -1,56 +1,38 @@
-<div align="center">
-  
-# 👋 Hey, I'm Saikat  
-### MERN Stack Developer • React • Node • MongoDB • REST APIs
+# Hey, I'm Saikat
 
-<br/>
+I'm a MERN Stack Developer who builds **real, full-stack products**, not tutorial apps.
 
-🧑‍💻 I build clean, functional, and production-ready full-stack applications.  
-💡 I enjoy creating real projects, real features, and real-world functionality.  
-🔥 Always learning, always improving.
+I focus on systems that involve:
+- Authentication (JWT + HTTP-only Cookies)
+- Scalable backend architecture
+- Real-world features like feeds, profiles, request systems
+- Clean UI with React + Tailwind
+- State management with Zustand / Redux
 
-<br/>
+I don’t chase perfection — I ship, learn, and improve fast.
 
-## 🚀 Tech Stack
-**Frontend:** React • Zustand • Redux • TailwindCSS • Bootstrap • Vite  
-**Backend:** Node.js • Express.js • MongoDB • Mongoose  
-**Other Tools:** Git • Postman • REST APIs
+## What I Work With
+**Frontend:** React, Vite, Zustand, Redux, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose  
+**Other:** REST APIs, Git, Postman, JWT, bcrypt
 
-<br/>
+## Featured Projects
+### MatchMate — Full MERN Social App  
+Frontend: https://github.com/SaikatGharami2001/matchmate-frontend  
+Backend: https://github.com/SaikatGharami2001/matchmate-backend  
 
-## 📌 Featured Projects
+### TalentBridge — Job Portal Platform  
+Frontend: https://github.com/SaikatGharami2001/talentbridge-frontend  
+Backend: https://github.com/SaikatGharami2001/talentbridge-backend  
 
-### 🔹 MatchMate — Full MERN Social App  
-Authentication • Profiles • Requests • Connections • Feed  
-🔗 [Frontend](https://github.com/SaikatGharami2001/matchmate-frontend)  
-🔗 [Backend](https://github.com/SaikatGharami2001/matchmate-backend)
+### ViewTube — YouTube UI Clone  
+Frontend: https://github.com/SaikatGharami2001/viewtube-frontend  
 
----
-
-### 🔹 TalentBridge — Job Portal Platform  
-Auth • Jobs • Filters • Dashboard  
-🔗 [Frontend](https://github.com/SaikatGharami2001/talentbridge-frontend)  
-🔗 [Backend](https://github.com/SaikatGharami2001/talentbridge-backend)
-
----
-
-### 🔹 ViewTube — YouTube UI Clone  
-🔗 [Repository](https://github.com/SaikatGharami2001/viewtube-frontend)
-
-<br/>
-
-## 🎯 What I'm Focusing On
-- Strengthening backend logic  
-- Building real full-stack systems  
-- Improving React foundations  
+## What I'm Improving Right Now
+- Backend logic & API design  
+- Clean component structure in React  
+- Better architecture for MERN apps  
 - Preparing for MERN developer roles  
 
-<br/>
-
-## 📫 Contact Me
-saikatgharami2001@gmail.com  
-
-<br/><br/>
-
-⭐️ _Thanks for visiting my profile!_  
-</div>
+## Contact
+saikatgharami2001@gmail.com
