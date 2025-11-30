@@ -21,11 +21,8 @@ Login + job listings + dashboard + filters
 - Frontend: https://github.com/SaikatGharami2001/talentbridge-frontend  
 - Backend:  https://github.com/SaikatGharami2001/talentbridge-backend
   
-**NetflixGPT – Netflix UI Clone**  
-- Frontend: https://github.com/SaikatGharami2001/netflix-gpt-frontend
-  
-**ViewTube – YouTube UI Clone**  
-- Frontend: https://github.com/SaikatGharami2001/viewtube-frontend  
+**FoodMate – Swiggy UI Clone**  
+- Frontend: https://github.com/SaikatGharami2001/foodmate-frontend
 
 ## What I'm improving right now
 - Stronger backend patterns & API architecture  
