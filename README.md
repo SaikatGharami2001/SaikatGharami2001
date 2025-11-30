@@ -1,54 +1,33 @@
-# Saikat Gharami
+# Hi, I'm Saikat
 
-I build full-stack systems with a level of clarity and discipline that most fresh developers don't even aim for.  
-I don’t copy tutorials. I don’t chase trends.  
-I build **real products** with **real architecture** that can be deployed, scaled, and maintained.
+I'm a MERN stack developer who focuses on building **real, production-level full-stack applications**.  
+Not tutorials. Not toy projects. Actual systems with authentication, scalable backend logic, and clean UI/UX.
 
-My work reflects exactly what companies want in a MERN engineer:
-- Reliable authentication flows (JWT + HTTP-only cookies)
-- Clean backend logic with proper routing, middlewares, and validation
-- Efficient MongoDB models designed for real-world usage
-- Frontend systems that are fast, responsive, and component-driven
-- State management that doesn’t turn into a mess (Zustand / Redux)
+My strengths:
+- Designing clear, maintainable backend architecture (Node.js + Express)
+- Writing real authentication flows (JWT + HTTP-only Cookies)
+- Building responsive and modern UIs (React + Tailwind)
+- Managing state cleanly (Zustand / Redux)
+- Working with MongoDB, Mongoose, and REST APIs
 
-If you're looking for someone who can take a feature from idea → design → backend → frontend → deploy,  
-I already do that. Every day.
-
----
-
-## My Work
-
-### MatchMate — Complete MERN Social Platform  
-Authentication, profiles, connection requests, feed system.  
-Not a beginner project. A real, full-stack product.  
+## Featured Projects
+**MatchMate – Full MERN Social App**  
+Authentication, profiles, requests, connections, feed  
 - Frontend: https://github.com/SaikatGharami2001/matchmate-frontend  
 - Backend:  https://github.com/SaikatGharami2001/matchmate-backend  
 
-### TalentBridge — Job Portal System  
-Full login system, job listings, filters, dashboards.  
-Built with the same standards companies use internally.  
+**TalentBridge – Job Portal Platform**  
+Login + job listings + dashboard + filters  
 - Frontend: https://github.com/SaikatGharami2001/talentbridge-frontend  
 - Backend:  https://github.com/SaikatGharami2001/talentbridge-backend  
 
-### ViewTube — YouTube UI Clone  
-Fast, clean, and responsive.  
+**ViewTube – YouTube UI Clone**  
 - Frontend: https://github.com/SaikatGharami2001/viewtube-frontend  
 
----
+## What I'm improving right now
+- Stronger backend patterns & API architecture  
+- Cleaner React component design  
+- Better structure for full MERN applications  
 
-## What I’m Focused On
-
-- Writing flexible backend architectures with Node + Express  
-- Improving API design and server structure  
-- Strengthening core React patterns  
-- Building real MERN apps that demonstrate production thinking  
-
-I don’t rush.  
-I don’t ship broken code.  
-I move fast **and** maintain quality.
-
----
-
-## Contact  
-If you read this and thought, “We need him” — you’re probably right.  
-Email: **saikatgharami2001@gmail.com**
+## Contact
+📧 saikatgharami2001@gmail.com
