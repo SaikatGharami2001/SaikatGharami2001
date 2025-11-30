@@ -33,4 +33,4 @@ Login + job listings + dashboard + filters
 - Better structure for full MERN applications  
 
 ## Contact
-📧 saikatgharami2001@gmail.com
+📧 saikatgharami2@gmail.com
