@@ -7,7 +7,7 @@ My strengths:
 - Designing clear, maintainable backend architecture (Node.js + Express)
 - Writing real authentication flows (JWT + HTTP-only Cookies)
 - Building responsive and modern UIs (React + Tailwind)
-- Managing state cleanly (Zustand / Redux)
+- Managing state cleanly (Zustand)
 - Working with MongoDB, Mongoose, and REST APIs
 
 ## Featured Projects
