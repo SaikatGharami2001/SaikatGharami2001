@@ -15,11 +15,6 @@ My strengths:
 Authentication, profiles, requests, connections, feed  
 - Frontend: https://github.com/SaikatGharami2001/matchmate-frontend  
 - Backend:  https://github.com/SaikatGharami2001/matchmate-backend  
-
-**TalentBridge – Job Portal Platform**  
-Login + job listings + dashboard + filters  
-- Frontend: https://github.com/SaikatGharami2001/talentbridge-frontend  
-- Backend:  https://github.com/SaikatGharami2001/talentbridge-backend
   
 **FoodMate – Swiggy UI Clone**  
 - Frontend: https://github.com/SaikatGharami2001/foodmate-frontend
